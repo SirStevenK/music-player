@@ -1,0 +1,82 @@
+[
+  {
+    "id": "1",
+    "name": "The Promised Land",
+    "image": "muzz1.jpeg",
+    "artist": "Muzz",
+    "type": "Album",
+    "value": ["Start Again", "Out There", "Somewhere Else"]
+  },
+  {
+    "id": "2",
+    "name": "The Cascade",
+    "image": "muzz2.jpeg",
+    "artist": "Muzz",
+    "type": "Album",
+    "value": ["New Age", "Elevate", "In The Night"]
+  },
+  {
+    "id": "3",
+    "name": "Dizzy Lifted",
+    "image": "cnone1.jpeg",
+    "artist": "CloudNone",
+    "type": "Single",
+    "value": "Dizzy Lifted"
+  },
+  {
+    "id": "4",
+    "name": "From Here",
+    "image": "cnone2.jpg",
+    "artist": "CloudNone",
+    "type": "Single",
+    "value": "From Here"
+  },
+  {
+    "id": "5",
+    "name": "Lights Out",
+    "image": "cnone3.jpeg",
+    "artist": "CloudNone",
+    "type": "Album",
+    "value": ["Lights Out", "Speed Run", "Miss Being Happy"]
+  },
+  {
+    "id": "6",
+    "name": "Feel Your Heart",
+    "image": "proto1.jpeg",
+    "artist": "Protostar",
+    "type": "Single",
+    "value": "Feel Your Heart"
+  },
+  {
+    "id": "7",
+    "name": "Overdrive",
+    "image": "proto2.jpg",
+    "artist": "Protostar",
+    "type": "Single",
+    "value": "Overdrive"
+  },
+  {
+    "id": "8",
+    "name": "Sequence EP",
+    "image": "proto3.jpeg",
+    "artist": "Protostar",
+    "type": "Album",
+    "value": ["TITAN", "MELTDOWN", "PURSUIT"]
+  },
+  {
+    "id": "9",
+    "name": "Eden",
+    "image": "dana1.jpg",
+    "artist": "Danyka Nadeau",
+    "type": "Single",
+    "value": "Eden"
+  },
+  {
+    "id": "10",
+    "name": "Chasing Clouds",
+    "image": "dana2.jpeg",
+    "artist": "Danyka Nadeau",
+    "type": "Single",
+    "value": "Chasing Clouds"
+  }
+]
